@@ -8,3 +8,4 @@
 - [Kotlin’s a rising star in language popularity index](https://www.infoworld.com/article/3199785/application-development/kotlin-s-a-rising-star-in-language-popularity-index.html)
 - [HTTP/1.1 vs. HTTP/2: What’s the difference?](https://www.pacwebhosting.co.uk/insight/News/NewsItem/View/31/http11-vs-http2-whats-the-difference)
 - [What happens when you type an URL in the browser and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
+- [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
