@@ -16,3 +16,4 @@
 - [How to Tune Java Garbage Collection](https://www.cubrid.org/blog/how-to-tune-java-garbage-collection/)
 - [The Principles of Java Application Performance Tuning](https://www.cubrid.org/blog/the-principles-of-java-application-performance-tuning)
 - [Dancing with OAuth: Understanding how Authorization Works](https://www.cubrid.org/blog/dancing-with-oauth-understanding-how-authorization-works)
+- [Reasons to prefer logback over log4j](https://logback.qos.ch/reasonsToSwitch.html)
