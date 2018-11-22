@@ -18,4 +18,4 @@
 - [Dancing with OAuth: Understanding how Authorization Works](https://www.cubrid.org/blog/dancing-with-oauth-understanding-how-authorization-works)
 - [Reasons to prefer logback over log4j](https://logback.qos.ch/reasonsToSwitch.html)
 - [Solving Your Logging Problems with Logback](https://stackify.com/logging-logback/)
-= [Blockchain Technology] (https://blockgeeks.com/guides/what-is-blockchain-technology/)
+- [Blockchain Technology] (https://blockgeeks.com/guides/what-is-blockchain-technology/)
