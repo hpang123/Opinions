@@ -19,7 +19,7 @@
 - [How to Tune Java Garbage Collection](https://www.cubrid.org/blog/3826456)
 - [The Principles of Java Application Performance Tuning](https://www.cubrid.org/blog/3826523)
 - [How to Monitor Java Garbage Collection](https://www.cubrid.org/blog/3826417)
-- [Dancing with OAuth: Understanding how Authorization Works](https://www.cubrid.org/blog/dancing-with-oauth-understanding-how-authorization-works)
+- [Dancing with OAuth: Understanding how Authorization Works](https://www.colabug.com/2017/0707/884992/)
 - [Reasons to prefer logback over log4j](https://logback.qos.ch/reasonsToSwitch.html)
 - [Solving Your Logging Problems with Logback](https://stackify.com/logging-logback/)
 - [Blockchain Technology](https://blockgeeks.com/guides/what-is-blockchain-technology/)
