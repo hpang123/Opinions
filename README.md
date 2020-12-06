@@ -13,10 +13,12 @@
 - [HTTP/1.1 vs. HTTP/2: What’s the difference?](https://www.pacwebhosting.co.uk/insight/News/NewsItem/View/31/http11-vs-http2-whats-the-difference)
 - [What happens when you type an URL in the browser and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 - [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
-- [WebSocket](https://www.tutorialspoint.com/websockets/)
+- [WebSocket](https://www.tutorialspoint.com/websockets/)Understanding JVM Internals
+- [Understanding JVM Internals](https://www.cubrid.org/blog/3826357)
 - [Understanding Java Garbage Collection](https://www.cubrid.org/blog/3826410)
 - [How to Tune Java Garbage Collection](https://www.cubrid.org/blog/3826456)
 - [The Principles of Java Application Performance Tuning](https://www.cubrid.org/blog/3826523)
+- [How to Monitor Java Garbage Collection](https://www.cubrid.org/blog/3826417)
 - [Dancing with OAuth: Understanding how Authorization Works](https://www.cubrid.org/blog/dancing-with-oauth-understanding-how-authorization-works)
 - [Reasons to prefer logback over log4j](https://logback.qos.ch/reasonsToSwitch.html)
 - [Solving Your Logging Problems with Logback](https://stackify.com/logging-logback/)
